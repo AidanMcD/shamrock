@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("shamrock.web")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+05841da6d2e72b36f90a6731815332e15f0ff102")]
 [assembly: System.Reflection.AssemblyProductAttribute("shamrock.web")]
 [assembly: System.Reflection.AssemblyTitleAttribute("shamrock.web")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

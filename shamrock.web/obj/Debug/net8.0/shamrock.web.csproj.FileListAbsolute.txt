@@ -28,3 +28,4 @@ D:\dotnet_projects\shamrock\shamrock.web\obj\Debug\net8.0\refint\shamrock.web.dl
 D:\dotnet_projects\shamrock\shamrock.web\obj\Debug\net8.0\shamrock.web.pdb
 D:\dotnet_projects\shamrock\shamrock.web\obj\Debug\net8.0\shamrock.web.genruntimeconfig.cache
 D:\dotnet_projects\shamrock\shamrock.web\obj\Debug\net8.0\ref\shamrock.web.dll
+D:\dotnet_projects\shamrock\shamrock.web\obj\Debug\net8.0\shamrock.web.sourcelink.json
