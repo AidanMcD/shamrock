@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30114.105
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "shamrock.web", "shamrock.web\shamrock.web.csproj", "{D46AD3C1-D4A7-4749-9DD0-44410AEACAB7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "shamrock.tests", "shamrock.tests\shamrock.tests.csproj", "{EC977C3D-5D2E-4B0F-961B-0504C4134910}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D46AD3C1-D4A7-4749-9DD0-44410AEACAB7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D46AD3C1-D4A7-4749-9DD0-44410AEACAB7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D46AD3C1-D4A7-4749-9DD0-44410AEACAB7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D46AD3C1-D4A7-4749-9DD0-44410AEACAB7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EC977C3D-5D2E-4B0F-961B-0504C4134910}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EC977C3D-5D2E-4B0F-961B-0504C4134910}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EC977C3D-5D2E-4B0F-961B-0504C4134910}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EC977C3D-5D2E-4B0F-961B-0504C4134910}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
